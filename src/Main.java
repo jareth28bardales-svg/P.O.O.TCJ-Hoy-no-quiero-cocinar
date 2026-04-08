@@ -1,3 +1,4 @@
+//Hector Jareth Flores Bardales
 import Vista.VentanaIdioma;
 import javax.swing.SwingUtilities;
 
