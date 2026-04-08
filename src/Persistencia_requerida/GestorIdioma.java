@@ -8,8 +8,7 @@ import java.util.Map;
  * Gestiona la carga de textos segun el idioma seleccionado.
  * Lee los archivos de idioma desde la carpeta datos/idiomas.
  *
- * @author TuNombre
- * @version 1.0
+ * @author Hector Jareth Flores Bardales — Informática Administrativa
  */
 public class GestorIdioma {
 
