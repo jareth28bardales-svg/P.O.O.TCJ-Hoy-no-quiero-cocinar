@@ -14,8 +14,7 @@ import java.util.Map;
  * Ventana principal del modulo de Administrador.
  * Permite editar info del restaurante, agregar gerentes y ver estadisticas.
  *
- * @author TuNombre
- * @version 1.0
+ * @author Wilmer Isai Amador Artega
  */
 public class VentanaAdministrador extends JFrame {
 
