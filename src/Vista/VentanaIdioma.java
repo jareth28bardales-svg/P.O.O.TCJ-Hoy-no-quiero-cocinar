@@ -9,8 +9,7 @@ import java.awt.*;
  * Ventana de seleccion de idioma.
  * Es la primera pantalla que ve el usuario al iniciar el sistema.
  *
- * @author TuNombre
- * @version 1.0
+ * @author Wilmer Isai Amador Artega
  */
 public class VentanaIdioma extends JFrame {
 
