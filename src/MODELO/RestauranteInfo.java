@@ -1,3 +1,4 @@
+//@author Jorge Enrique Pérez Ortiz — Informática Administrativa
 package MODELO;
 
 public class RestauranteInfo {
