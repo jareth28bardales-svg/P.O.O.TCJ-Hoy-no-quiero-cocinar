@@ -10,8 +10,7 @@ import java.awt.*;
  * Panel de registro de nuevos clientes del sistema.
  * Se muestra en la misma ventana reemplazando el login.
  *
- * @author TuNombre
- * @version 1.0
+ * @author Wilmer Isai Amador Arteaga
  */
 public class PantallaRegistro extends JPanel {
 
