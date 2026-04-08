@@ -1,3 +1,4 @@
+//@author Hector Jareth Flores Bardales — Informática Administrativa
 package Persistencia_requerida;
 
 import java.sql.*;
