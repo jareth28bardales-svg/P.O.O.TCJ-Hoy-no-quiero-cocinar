@@ -162,7 +162,7 @@ public class PantallaRegistro extends JPanel {
         logo.setFont(new Font("Dialog", Font.PLAIN, 85));
         logo.setAlignmentX(Component.CENTER_ALIGNMENT);
 
-        JLabel nombre = new JLabel("RestauranteMex");
+        JLabel nombre = new JLabel("INSERT INTO HUNGER");
         nombre.setFont(new Font("Arial", Font.BOLD, 28));
         nombre.setForeground(BLANCO);
         nombre.setAlignmentX(Component.CENTER_ALIGNMENT);
