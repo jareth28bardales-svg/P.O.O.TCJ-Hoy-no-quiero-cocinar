@@ -9,8 +9,7 @@ import java.io.*;
  * Lee las credenciales desde un archivo de texto externo
  * y delega la carga del perfil completo a la base de datos.
  *
- * @author TuNombre
- * @version 1.0
+ * @author Jorge Enrique Pérez Ortiz — Informática Administrativa
  */
 public class GestorUsuarios {
 
