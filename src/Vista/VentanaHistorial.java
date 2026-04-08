@@ -16,7 +16,6 @@ import java.util.Map;
  * Incluye pedidos en proceso, pedidos entregados y grafica de consumo.
  *
  * @author Hector Jareth Flores Bardales
- * @version 1.0
  */
 public class VentanaHistorial extends JFrame {
 
