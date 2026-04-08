@@ -11,8 +11,7 @@ import java.awt.*;
  * Ventana del modulo de Repartidor.
  * Permite ver el pedido asignado y marcarlo como entregado.
  *
- * @author TuNombre
- * @version 1.0
+ * @author Antony Hernandez - 20232100056 - Programacion Intermedia - DIA065-0800
  */
 public class VentanaRepartidor extends JFrame {
 
