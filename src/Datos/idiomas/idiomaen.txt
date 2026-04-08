@@ -1,0 +1,75 @@
+# Login
+bienvenido=Welcome
+subtitulo_login=Enter your credentials to continue
+usuario=Username
+contrasena=Password
+mostrar_contrasena=Show password
+ingresar=Sign In
+no_tienes_cuenta=Don't have an account? Sign Up
+ver_menu=View menu without signing in
+error_campos_vacios=Please fill in all fields.
+error_credenciales=Incorrect username or password.
+campos_vacios=Empty fields
+error_acceso=Access error
+
+# Registro
+crear_cuenta=Create account
+subtitulo_registro=Fill in your details to register
+nombre_completo=Full name
+telefono=Phone
+direccion=Address
+confirmar_contrasena=Confirm password
+registrarse=Sign Up
+ya_tienes_cuenta=Already have an account? Sign In
+registro_exitoso=Account created successfully!
+error_usuario_existe=Username already exists, choose another.
+error_contrasenas=Passwords do not match.
+error_registro=Registration error
+
+# Menú cliente
+catalogo=Combo Catalog
+buscador=What are you craving today?
+tu_pedido=YOUR ORDER
+selecciona_combo=Select a combo
+confirmar_pagar=Confirm & Pay
+mis_pedidos=My orders
+mi_perfil=My profile
+cerrar_sesion=Sign out
+menu=Menu
+seleccionar=Select
+pedido_exitoso=Order placed successfully!\nStatus: PENDING
+pedido_confirmado=Order confirmed
+confirmar_pedido=Confirm order
+error_pedido=Error placing the order.
+
+# Historial
+historial_titulo=My Orders
+en_proceso=In Progress
+entregados=Delivered
+sin_pedidos_proceso=No orders in progress 🎉
+sin_entregados=No delivered orders yet
+pedidos_en_camino=Orders on the way
+total_entregados=Total delivered
+total_gastado=Total spent
+combos_mas_pedidos=Most ordered combos
+
+# Perfil
+datos_personales=Personal data
+cambiar_contrasena=Change password
+guardar_cambios=Save changes
+actualizar_contrasena=Update password
+contrasena_actual=Current password
+nueva_contrasena=New password
+confirmar_nueva=Confirm new password
+info_cuenta=Account information
+datos_actualizados=Data updated successfully.
+contrasena_actualizada=Password updated successfully.
+contrasena_incorrecta=Current password is incorrect.
+contrasena_debil=New password must be at least 6 characters.
+error_guardar=Error saving data.
+
+# General
+eslogan=The flavor that never fails
+nombre_restaurante=Insert Into Hunger
+sin_asignar=Unassigned
+refrescar=Refresh

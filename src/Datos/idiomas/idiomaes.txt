@@ -1,0 +1,75 @@
+# Login
+bienvenido=Bienvenido
+subtitulo_login=Ingresa tus credenciales para continuar
+usuario=Usuario
+contrasena=Contraseña
+mostrar_contrasena=Mostrar contraseña
+ingresar=Ingresar
+no_tienes_cuenta=¿No tienes cuenta? Regístrate
+ver_menu=Ver menú sin registrarse
+error_campos_vacios=Por favor completa todos los campos.
+error_credenciales=Usuario o contraseña incorrectos.
+campos_vacios=Campos vacíos
+error_acceso=Error de acceso
+
+# Registro
+crear_cuenta=Crear cuenta
+subtitulo_registro=Completa tus datos para registrarte
+nombre_completo=Nombre completo
+telefono=Teléfono
+direccion=Dirección
+confirmar_contrasena=Confirmar contraseña
+registrarse=Registrarse
+ya_tienes_cuenta=¿Ya tienes cuenta? Inicia sesión
+registro_exitoso=¡Cuenta creada exitosamente!
+error_usuario_existe=El usuario ya existe, elige otro nombre.
+error_contrasenas=Las contraseñas no coinciden.
+error_registro=Error de registro
+
+# Menú cliente
+catalogo=Catálogo de Combos
+buscador=¿Qué se te antoja hoy?
+tu_pedido=TU PEDIDO
+selecciona_combo=Selecciona un combo
+confirmar_pagar=Confirmar y Pagar
+mis_pedidos=Mis pedidos
+mi_perfil=Mi perfil
+cerrar_sesion=Cerrar sesión
+menu=Menú
+seleccionar=Seleccionar
+pedido_exitoso=¡Pedido realizado con éxito!\nEstado: PENDIENTE
+pedido_confirmado=Pedido confirmado
+confirmar_pedido=Confirmar pedido
+error_pedido=Error al realizar el pedido.
+
+# Historial
+historial_titulo=Mis Pedidos
+en_proceso=En Proceso
+entregados=Entregados
+sin_pedidos_proceso=No tienes pedidos en proceso 🎉
+sin_entregados=Aún no tienes pedidos entregados
+pedidos_en_camino=Pedidos en camino
+total_entregados=Total entregados
+total_gastado=Total gastado
+combos_mas_pedidos=Combos más pedidos
+
+# Perfil
+datos_personales=Datos personales
+cambiar_contrasena=Cambiar contraseña
+guardar_cambios=Guardar cambios
+actualizar_contrasena=Actualizar contraseña
+contrasena_actual=Contraseña actual
+nueva_contrasena=Nueva contraseña
+confirmar_nueva=Confirmar nueva contraseña
+info_cuenta=Información de cuenta
+datos_actualizados=Datos actualizados correctamente.
+contrasena_actualizada=Contraseña actualizada correctamente.
+contrasena_incorrecta=La contraseña actual no es correcta.
+contrasena_debil=La nueva contraseña debe tener al menos 6 caracteres.
+error_guardar=Error al guardar los datos.
+
+# General
+eslogan=El sabor que nunca da error
+nombre_restaurante=Insert Into Hunger
+sin_asignar=Sin asignar
+refrescar=Refrescar

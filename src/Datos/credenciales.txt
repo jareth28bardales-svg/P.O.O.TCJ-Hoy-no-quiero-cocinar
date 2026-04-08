@@ -1,0 +1,5 @@
+admin,admin123,ADMIN
+gerente,gerente123,GERENTE
+repartidor,repartidor123,REPARTIDOR
+cliente1,cliente123,CLIENTE
+trochez,trochezwi,REPARTIDOR
