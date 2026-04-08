@@ -10,8 +10,7 @@ import java.awt.*;
  * Ventana de perfil del cliente.
  * Permite ver y editar los datos personales del usuario.
  *
- * @author TuNombre
- * @version 1.0
+ * @author Antony Hernandez - 20232100056 - Programacion Intermedia - DIA065-0800
  */
 public class VentanaPerfil extends JFrame {
 
