@@ -12,7 +12,6 @@ import java.awt.*;
  * Diseño dividido: formulario a la izquierda, marca flotante a la derecha.
  *
  * @author Wilmer Isai Amador Arteaga
- * @version 1.0
  */
 public class VentanaLogin extends JFrame {
 
